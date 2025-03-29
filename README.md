@@ -1,4 +1,4 @@
-# IntelliOpt: Automated AWS Cost Optimization Suite
+# CloudWise: Automated AWS Cost Optimization Suite
 
 
 
@@ -13,7 +13,7 @@ In the ever-evolving cloud landscape, businesses often face rising AWS expenses 
 
 [IntelliOpt](https://github.com/pulkit-dheer/IntelliOpt-Automated-AWS-Cost-Optimization-Suite.git) is a powerful, automated suite developed to streamline AWS resource utilization, reduce superfluous costs, and simplify cloud management with minimal manual intervention.
 
-### Key Advantages of IntelliOpt:
+### Key Advantages of CloudWise:
 
 - **Proactive Cost Savings:**  
    Through automation, IntelliOpt identifies and decommissions underused or orphaned resources, enabling organizations to lower AWS costs and avoid unnecessary spending.
@@ -86,7 +86,7 @@ For more information see [Boto3 Documentation](https://boto3.amazonaws.com/v1/do
 
 ## 💡 The Solution
 
-The [IntelliOpt](https://github.com/pulkit-dheer/IntelliOpt-Automated-AWS-Cost-Optimization-Suite.git) suite provides a comprehensive and automated approach to optimizing AWS resource utilization, significantly lowering costs and enhancing operational efficiency. Here’s how the suite effectively addresses the identified challenges:
+The CloudWise suite provides a comprehensive and automated approach to optimizing AWS resource utilization, significantly lowering costs and enhancing operational efficiency. Here’s how the suite effectively addresses the identified challenges:
 
 
 ### 1. Automated Scanning and Management of Underutilized EC2 Instances
